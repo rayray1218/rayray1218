@@ -47,8 +47,8 @@
 
 ## 📈 GitHub Stats
 
-![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayray1218&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayray1218&layout=compact&theme=radical)
+![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayray1218&show_icons=true&theme=radical&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayray1218&layout=compact&theme=radical&cache_seconds=60)
 
 ---
 <!-- 
