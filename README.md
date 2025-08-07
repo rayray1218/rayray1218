@@ -2,7 +2,7 @@
 
 🎯 **Backend Developer | ML Enthusiast | Blockchain Learner**
 
-- 🚀 Currently building: **TOEFL Study Backend** (Go + Gin)
+- 🚀 Currently building: **Trading-Bot** (Go + Gin)
 - 🤝 Contributing to: Open-source projects in Go, ML, and Blockchain
 - 📚 Interested in: Trading bots, scalable backend systems, and data-driven apps
 - 🌍 Based in Taiwan
@@ -29,19 +29,19 @@
 - 🔧 Built with **Go**, **Gin**, **Gmail API**, and **tmux** for background job  
 - 📬 Helps students practice writing with structured prompts
 
----
+<!-- ---
 
 ### 🤖 [Crypto Trading Bot](#)
 - 📊 Futures trading bot using **MACD + RSI** strategy  
 - ⚡ Leverage control and automatic stop-loss implementation  
-- 🔥 Developed in **Go**, with real-time Binance API integration
+- 🔥 Developed in **Go**, with real-time Binance API integration -->
 
----
+<!-- ---
 
 ### 🔗 [Blockchain Research Project](#)
 - ⛓ Smart contract security research with **Go-Ethereum**  
 - 🔍 Auditing and transaction analysis tools  
-- 🧠 Explores cryptographic primitives and consensus protocols
+- 🧠 Explores cryptographic primitives and consensus protocols -->
 
 ---
 
@@ -51,19 +51,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayray1218&layout=compact&theme=radical)
 
 ---
-
+<!-- 
 ## 🤝 Open Source Contributions
 
 - 🛠 Actively contributing to [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader)  
 - 🧩 Providing bug fixes and features to Go backend libraries  
 - 📬 Looking for ML + backend projects to collaborate on
 
----
+--- -->
 
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhu2010@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rrray1218)
 
 ---
 
