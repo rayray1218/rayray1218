@@ -67,4 +67,4 @@
 
 ---
 
-⭐️ *"Code. Learn. Contribute. Repeat."*
+⭐️ *"Code. Learn. Contribute. Repeat. "*
